@@ -4,22 +4,6 @@ Welcome to the Take-Home Assignment for the Data Test Engineer role at CTG!
 
 ---
 
-## Overview
-
-You are a Quality Engineer working on a data engineering team responsible for moving financial data from source systems into an analytical data warehouse.
-
-Your task is to design and implement an automated data-quality test suite for the example pipeline represented by the two CSV files in `data/`.
-
-The assignment is intentionally small and self-contained. It is designed to assess data-quality test design, engineering judgment, problem solving, reliability, and communication.
-
-**Expected time:** approximately 1–2 hours.
-
-You must use Python for this assignment.
-
-You may use AI tools. If you do, document how you used them and be prepared to explain and defend your implementation.
-
----
-
 ## Setup
 
 Do **not** fork this repository. Forking public repositories makes your solution visible to other candidates. Instead, use GitHub's template feature:
@@ -35,6 +19,22 @@ Do **not** fork this repository. Forking public repositories makes your solution
 git clone https://github.com/ACCOUNT-NAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
+
+---
+
+## Overview
+
+You are a Quality Engineer working on a data engineering team responsible for moving financial data from source systems into an analytical data warehouse.
+
+Your task is to design and implement an automated data-quality test suite for the example pipeline represented by the two CSV files in `data/`.
+
+The assignment is intentionally small and self-contained. It is designed to assess data-quality test design, engineering judgment, problem solving, reliability, and communication.
+
+**Expected time:** approximately 1–2 hours.
+
+You must use Python for this assignment.
+
+You may use AI tools. If you do, document how you used them and be prepared to explain and defend your implementation.
 
 ---
 
