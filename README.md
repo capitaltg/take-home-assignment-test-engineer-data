@@ -62,9 +62,7 @@ The supplied data contains intentionally introduced data-quality problems. **Do 
 
 ---
 
-# Your Tasks
-
-## 1. Build automated data-quality tests
+## Your Task
 
 Create a test suite that identifies important data-quality issues in the warehouse data.
 
@@ -109,39 +107,27 @@ There is not necessarily one correct answer. We are interested in your reasoning
 
 ---
 
-# Deliverables
+## Deliverables
 
 Please submit:
 
 ### Source code
 Automated tests and supporting code.
 
-### README
+### Responses to entries in SUBMISSION_TEMPLATE.md
 Include:
 - How to run the tests
 - Assumptions
 - Testing strategy
-- Expected results
-- Significant design decisions
+- Test results summary
+- Pipeline failure decisions
 - Limitations
 - What you would do differently with more time
-
-### Test-results summary
-Summarize:
-- Tests that passed
-- Tests that failed
-- Important data-quality issues discovered
-- Which issues you believe should cause the pipeline to fail and why
-
-### AI usage
-If you used AI, briefly describe:
-- Which tool(s) you used
-- What you used them for
-- What you personally reviewed, changed, tested, or validated
+- AI usage
 
 ---
 
-# Interview Discussion
+## Interview Discussion
 
 You will have approximately 10–15 minutes to walk us through your solution.
 
@@ -158,7 +144,7 @@ You should be able to explain your code and design decisions in your own words.
 
 ---
 
-# Evaluation Criteria
+## Evaluation Criteria
 
 We will evaluate:
 
@@ -172,22 +158,3 @@ We will evaluate:
 - Understanding of trade-offs and limitations
 
 We are **not** looking for a production-ready framework. A small set of well-designed, reliable tests with clear reasoning is preferable to a large amount of code.
-
----
-
-## Suggested project structure
-
-You may organize the project however you prefer. One possible structure is:
-
-```
-qe-data-quality-assignment/
-├── data/
-│   ├── source_data.csv
-│   └── warehouse_data.csv
-├── tests/
-│   └── ...
-├── src/
-│   └── ...
-├── requirements.txt
-└── README.md
-```
