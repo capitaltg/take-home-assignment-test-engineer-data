@@ -4,24 +4,6 @@ Welcome to the Take-Home Assignment for the Data Test Engineer role at CTG!
 
 ---
 
-## Setup
-
-Do **not** fork this repository. Forking public repositories makes your solution visible to other candidates. Instead, use GitHub's template feature:
-
-1. Click the green **"Use this template"** button at the top of this repository page.
-2. Select **"Create a new repository"**.
-3. Set your new repository's visibility to **Private** (Crucial for privacy!).
-4. Name the repository (e.g., `data-test-engineer-assignment-yourname`).
-5. Clone **your private repository** to your local machine:
-
-```bash
-# Clone your private repository
-git clone https://github.com/ACCOUNT-NAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-```
-
----
-
 ## Overview
 
 You are a Quality Engineer working on a data engineering team responsible for moving financial data from source systems into an analytical data warehouse.
@@ -35,6 +17,24 @@ The assignment is intentionally small and self-contained. It is designed to asse
 You must use Python for this assignment.
 
 You may use AI tools. If you do, document how you used them and be prepared to explain and defend your implementation.
+
+---
+
+## Setup
+
+Do **not** fork this repository. Forking public repositories makes your solution visible to other candidates. Instead, use GitHub's template feature:
+
+1. Click the green **"Use this template"** button at the top of this repository page.
+2. Select **"Create a new repository"**.
+3. Set your new repository's visibility to **Private** (Crucial for privacy!).
+4. Name the repository (e.g., `data-test-engineer-assignment-your name`).
+5. Clone **your private repository** to your local machine:
+
+```bash
+# Clone your private repository
+git clone https://github.com/ACCOUNT-NAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
+```
 
 ---
 
