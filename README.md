@@ -20,6 +20,24 @@ You may use AI tools. If you do, document how you used them and be prepared to e
 
 ---
 
+## Setup
+
+Do **not** fork this repository. Forking public repositories makes your solution visible to other candidates. Instead, use GitHub's template feature:
+
+1. Click the green **"Use this template"** button at the top of this repository page.
+2. Select **"Create a new repository"**.
+3. Set your new repository's visibility to **Private** (Crucial for privacy!).
+4. Name the repository (e.g., `data-test-engineer-assignment-yourname`).
+5. Clone **your private repository** to your local machine:
+
+```bash
+# Clone your private repository
+git clone https://github.com/ACCOUNT-NAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
+```
+
+---
+
 ## Scenario
 
 The source system contains information about financial securities:
