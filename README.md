@@ -4,24 +4,6 @@ Welcome to the Take-Home Assignment for the Data Test Engineer role at CTG!
 
 ---
 
-## Setup
-
-Do **not** fork this repository. Forking public repositories makes your solution visible to other candidates. Instead, use GitHub's template feature:
-
-1. Click the green **"Use this template"** button at the top of this repository page.
-2. Select **"Create a new repository"**.
-3. Set your new repository's visibility to **Private** (Crucial for privacy!).
-4. Name the repository (e.g., `data-test-engineer-assignment-your name`).
-5. Clone **your private repository** to your local machine:
-
-```bash
-# Clone your private repository
-git clone https://github.com/ACCOUNT-NAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-```
-
----
-
 ## Overview
 
 You are a Quality Engineer working on a data engineering team responsible for moving financial data from source systems into an analytical data warehouse.
@@ -124,6 +106,14 @@ Include:
 - Limitations
 - What you would do differently with more time
 - AI usage
+
+---
+
+## ⏱️ Submission Guidelines
+
+When you are finished:
+1. Commit and push all your code to the `main` branch of this repository.
+2. Reply to our HR team's email with the link to your repository to confirm completion.
 
 ---
 
