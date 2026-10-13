@@ -111,9 +111,7 @@ Include:
 
 ## ⏱️ Submission Guidelines
 
-When you are finished:
-1. Commit and push all your code to the `main` branch of this repository.
-2. Reply to our HR team's email with the link to your repository to confirm completion.
+When you are finished, commit and push all your code to the `main` branch of the repository that was created for you.
 
 ---
 
